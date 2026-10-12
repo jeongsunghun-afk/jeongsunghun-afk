@@ -51,4 +51,5 @@ Isaac Lab에서 지형 커리큘럼 기반 보행 정책을 학습시키고, 비
 
 ## 연락
 
-<!-- 개인 이메일 / LinkedIn 링크 -->
+- 📍 대한민국
+- ✉️ [rpdmdrpdm@gmail.com](mailto:rpdmdrpdm@gmail.com)
